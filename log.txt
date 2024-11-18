@@ -1,0 +1,189 @@
+===========LOAD============
+Success
+=====================================
+
+===========SEARCH_BP===============
+Apple/300/Author Junwon/0
+===============================================
+
+=======================
+ERROR 300
+=======================
+
+===========SEARCH_BP===============
+Enchanted Gardens/500/Author Isabella/0
+===============================================
+
+=======================
+ERROR 300
+=======================
+
+===========SEARCH_BP===============
+Apple/300/Author Junwon/0
+Beyond the Horizon/100/Author Yvonne/0
+Beyond the Veil/300/Author Mira/0
+Celestial Odyssey/200/Author Tyler/0
+Celestial Whispers/100/Author Kiera/0
+===============================================
+
+=======================
+ERROR 200
+=======================
+
+==========ADD==========
+The Selfish Giant/600/Oscar Fingal/1888
+===================================
+
+==========ADD==========
+The Selfish Giant/600/Oscar Fingal/1888
+===================================
+
+==========ADD==========
+To Kill a Monchingbird/200/Harper Lee/1960
+===================================
+
+==========ADD==========
+To Kill a Monchingbird/200/Harper Lee/1960
+===================================
+
+==========ADD==========
+To Kill a Monchingbird/200/Harper Lee/1960
+===================================
+
+==========ADD==========
+I Want To Eat Your Pancreas/300/seminoyoru/2015
+===================================
+
+==========ADD==========
+I Want To Eat Your Pancreas/300/seminoyoru/2015
+===================================
+
+==========ADD==========
+I Want To Eat Your Pancreas/300/seminoyoru/2015
+===================================
+
+==========ADD==========
+I Want To Eat Your Pancreas/300/seminoyoru/2015
+===================================
+
+==========ADD==========
+I Want To Eat Your Pancreas/300/seminoyoru/2015
+===================================
+
+==========ADD==========
+Whispering Winds/400/Author Benjamin/2019
+===================================
+
+==========ADD==========
+Whispering Winds/400/Author Benjamin/2019
+===================================
+
+==========ADD==========
+Whispering Winds/400/Author Benjamin/2019
+===================================
+
+==========ADD==========
+Whispering Winds/400/Author Benjamin/2019
+===================================
+
+==========ADD==========
+Enchanted Gardens/500/Author Isabella/2021
+===================================
+
+==========ADD==========
+Enchanted Gardens/500/Author Isabella/2021
+===================================
+
+==========ADD==========
+Enchanted Gardens/500/Author Isabella/2021
+===================================
+
+==========ADD==========
+Enchanted Gardens/500/Author Isabella/2021
+===================================
+
+==========ADD==========
+Jujutsu Kaisen2/200/akutamekake/2018
+===================================
+
+==========ADD==========
+Jujutsu Kaisen2/200/akutamekake/2018
+===================================
+
+==========ADD==========
+Jujutsu Kaisen2/200/akutamekake/2018
+===================================
+
+==========ADD==========
+Legends Unfolded/300/Author Ava/2022
+===================================
+
+==========ADD==========
+Legends Unfolded/300/Author Ava/2022
+===================================
+
+==========ADD==========
+Legends Unfolded/300/Author Ava/2022
+===================================
+
+==========ADD==========
+Legends Unfolded/300/Author Ava/2022
+===================================
+
+==========ADD==========
+Apple/300/Author Junwon/2023
+===================================
+
+==========ADD==========
+Apple/300/Author Junwon/2023
+===================================
+
+==========ADD==========
+Apple/300/Author Junwon/2023
+===================================
+
+==========ADD==========
+Apple/300/Author Junwon/2023
+===================================
+
+==========PRINT_BP==========
+Apple/300/Author Junwon/4
+Beyond the Horizon/100/Author Yvonne/0
+Beyond the Veil/300/Author Mira/0
+Celestial Odyssey/200/Author Tyler/0
+Celestial Whispers/100/Author Kiera/0
+Echoes of Destiny/100/Author Elena/0
+Echoes of Eternity/600/Author Xavier/0
+Enchanted Gardens/500/Author Isabella/4
+Enchanted Realms/200/Author Zachary/0
+Enigma's Embrace/500/Author Chloe/0
+I Want To Eat Your Pancreas/300/seminoyoru/4
+Jujutsu Kaisen2/200/akutamekake/2
+Legends Unfolded/300/Author Ava/4
+Mystical Realms/200/Author Felix/0
+Odyssey of Dreams/600/Author Daniel/0
+Secrets of Atlantis/300/Author Ursula/0
+Secrets of Avalon/200/Author Liam/0
+Serenade of Shadows/500/Author Wendy/0
+Shrouded Secrets/300/Author Grace/0
+The Selfish Giant/600/Oscar Fingal/1
+Timeless Adventures/400/Author Victor/0
+To Kill a Monchingbird/200/Harper Lee/2
+Visions of Tomorrow/400/Author Hugo/0
+Whispering Shadows/400/Author Noah/0
+Whispering Winds/400/Author Benjamin/4
+========================================
+
+================PRINT_ST==================
+Apple/300/Author Junwon/2023/4
+I Want To Eat Your Pancreas/300/seminoyoru/2015/4
+Legends Unfolded/300/Author Ava/2022/4
+===========================================
+===========DELETE============
+Success
+=====================================
+
+================PRINT_ST==================
+I Want To Eat Your Pancreas/300/seminoyoru/2015/4
+Legends Unfolded/300/Author Ava/2022/4
+===========================================

@@ -1,0 +1,40 @@
+LOAD
+SEARCH_BP	Apple
+SEARCH_BP	The Selfish Giant
+SEARCH_BP	Enchanted Gardens
+SEARCH_BP	Computer engineering Science
+SEARCH_BP	A	D
+ADD	안녕하세요!
+ADD	The Selfish Giant	600	Oscar Fingal	1888
+ADD	The Selfish Giant	600	Oscar Fingal	1888
+ADD	To Kill a Monchingbird	200	Harper Lee	1960
+ADD	To Kill a Monchingbird	200	Harper Lee	1960
+ADD	To Kill a Monchingbird	200	Harper Lee	1960
+ADD	I Want To Eat Your Pancreas	300	seminoyoru	2015
+ADD	I Want To Eat Your Pancreas	300	seminoyoru	2015
+ADD	I Want To Eat Your Pancreas	300	seminoyoru	2015
+ADD	I Want To Eat Your Pancreas	300	seminoyoru	2015
+ADD	I Want To Eat Your Pancreas	300	seminoyoru	2015
+ADD	Whispering Winds	400	Author Benjamin	2019
+ADD	Whispering Winds	400	Author Benjamin	2019
+ADD	Whispering Winds	400	Author Benjamin	2019
+ADD	Whispering Winds	400	Author Benjamin	2019
+ADD	Enchanted Gardens	500	Author Isabella	2021
+ADD	Enchanted Gardens	500	Author Isabella	2021
+ADD	Enchanted Gardens	500	Author Isabella	2021
+ADD	Enchanted Gardens	500	Author Isabella	2021
+ADD	Jujutsu Kaisen2	200	akutamekake	2018
+ADD	Jujutsu Kaisen2	200	akutamekake	2018
+ADD	Jujutsu Kaisen2	200	akutamekake	2018
+ADD	Legends Unfolded	300	Author Ava	2022
+ADD	Legends Unfolded	300	Author Ava	2022
+ADD	Legends Unfolded	300	Author Ava	2022
+ADD	Legends Unfolded	300	Author Ava	2022
+ADD	Apple	300	Author Junwon	2023
+ADD	Apple	300	Author Junwon	2023
+ADD	Apple	300	Author Junwon	2023
+ADD	Apple	300	Author Junwon	2023
+PRINT_BP
+PRINT_ST	300
+DELETE
+PRINT_ST	300
